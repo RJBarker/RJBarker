@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning VBA, Python, SQL etc.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me
-    - 📧 rbarker92@gmail.com
     - 🔗 [LinkedIn](https://www.linkedin.com/in/r-j-barker/)
 
 <hr>
